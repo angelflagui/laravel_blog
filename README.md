@@ -15,8 +15,8 @@ Blog que permita votar artículos y comentarlos.
 - Admin panel.
 - Comment section.
 
-Instalación y configuración: 2 horas.
-Creación de modelos, controladores y rutas: 3 horas.
-Frontend: 1 hora.
-Backend: 2 horas.
-Documentación y comentarios: 1 hora.
+1. Instalación y configuración: 2 horas.
+2. Creación de modelos, controladores y rutas: 3 horas.
+3. Frontend: 1 hora.
+4. Backend: 2 horas.
+5. Documentación y comentarios: 1 hora.
