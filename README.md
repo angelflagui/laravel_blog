@@ -6,7 +6,7 @@ Blog que permita votar artículos y comentarlos.
 2. Funcionalidad de votar artículos.
 
 
-# Requerimientos del sistema
+# Características:
 
 - Inicio de sesión y registro. (Autenticación de usuarios).
 - CRUD para categorías y artículos.
@@ -15,6 +15,7 @@ Blog que permita votar artículos y comentarlos.
 - Admin panel.
 - Comment section.
 
+# Seguimiento del tiempo: 
 1. Instalación y configuración: 2 horas.
 2. Creación de modelos, controladores y rutas: 3 horas.
 3. Frontend: 1 hora.
